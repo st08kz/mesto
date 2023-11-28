@@ -9,4 +9,9 @@
   border-radius: 2px;
   cursor: pointer;
   padding: 0;
+  transition: opacity .5s;
+}
+
+.profile__button_edit:hover {
+  opacity: .6;
 }
